@@ -57,7 +57,7 @@ const ProjectList: {
     {
       title: "portfolio",
       image: "/projects/projectThree.png",
-      link: "euphonious-manatee-76dbe7.netlify.app/",
+      link: "https://euphonious-manatee-76dbe7.netlify.app/",
       gitHubLink: "https://github.com/moohilmy/3d-portfolio",
       Teches: [
         {
