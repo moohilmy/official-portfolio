@@ -16,7 +16,7 @@ const Projects = () => {
       <div>
         <div className="text-gray-600 sm:text-sm text-xs  flex justify-center gap-1 items-center">
           <p>Check out my latest projects on</p>
-          <Link href='' aria-label='git-repo'   target="_blank"  className="bg-black text-white flex items-center p-1 text-xs transition-all hover:bg-gray-700">
+          <Link href='https://github.com/moohilmy?tab=repositories' aria-label='git-repo'   target="_blank"  className="bg-black text-white flex items-center p-1 text-xs transition-all hover:bg-gray-700">
           <FaGithub className="mr-1"/>
           my git hub
         </Link>
