@@ -23,6 +23,14 @@ export const metadata: Metadata = {
     url: "https://official-portfolio-ecru.vercel.app",
     siteName: "HELMY DEV"
   },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+    },
+  }
   
 };
 
